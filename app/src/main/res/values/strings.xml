@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">SISCALFUE</string>
+    <string name="lon">Longitud</string>
+    <string name="lat">Latitud</string>
 </resources>
